@@ -1,1 +1,1 @@
-Optional task - installing vigrant on local PC
+Optional task - installing vagrant on local PC
