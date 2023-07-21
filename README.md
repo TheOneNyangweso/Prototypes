@@ -1,6 +1,6 @@
 #### Prototypes
 This is a public repository, feel free to fork and add your own prototypes\
-The repo has a notebook, <b>Prototypes.ipynb</b>...where one can add a prototype used to perfom common tasks.\
+The repo has a notebook, <b>prototypes.ipynb</b>...where one can add a prototype used to perfom common tasks.\
 <br>
 ##### Instructions
 Below the latest Prototype, in a markdown cell, give a brief description of prototype(can be function or class).
